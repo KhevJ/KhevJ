@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhevJ
 - 👀 I’m interested in programming, web development.
 - 🌱 I’m currently learning reactJs and typescript to improve my web dev skills.
-- 💞️ I’m currently looking for an internship for Winter 2024/ January 2024.
+- 💞️ I’m currently looking for an internship.
 - 📫 You can reach me at my email "khevinjug@gmail.com"
 
 <!---
