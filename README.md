@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KhevJ
+- 👋 Hi, I’m Khevin.
 - 👀 I’m interested in programming, web development.
 - 🌱 I’m currently learning reactJs and typescript to improve my web dev skills.
 - 💞️ I’m currently looking for an internship.
