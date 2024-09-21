@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Khevin.
-- 👀 I’m interested in programming, web development.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning reactJs and typescript to improve my web dev skills.
-- 💞️ I’m currently looking for an internship.
 - 📫 You can reach me at my email "khevinjug@gmail.com"
 
 <!---
