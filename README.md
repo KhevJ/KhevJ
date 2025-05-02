@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khevin.
-- 👀 I love software development especially web dev and machine learning.
+- 👀 I love software development.
 - 🌱 You can find more about me on my  [personal website](https://khevin.vercel.app).
 - 📫 You can reach me at my email "khevinjug@gmail.com"
 
